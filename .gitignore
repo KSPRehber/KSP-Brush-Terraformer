@@ -1,0 +1,17 @@
+# Local KSP test install (copied from Steam, ~5.6 GB)
+/KSP/
+
+# Proton/Wine prefix used by run.sh
+/.proton-prefix/
+
+# Build output
+/build/
+
+# Editor / OS clutter
+*.swp
+*~
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
