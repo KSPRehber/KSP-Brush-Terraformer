@@ -1,6 +1,6 @@
-# TerraformTech — real-time terrain editing for Kerbal Space Program
+# Real-time terrain editing system for Kerbal Space Program 1
 
-TerraformTech is a tech demo plugin for **KSP 1.12.x** that lets you reshape planetary terrain while the
+This is a tech demo plugin for **KSP 1.12.x** that lets you reshape planetary terrain while the
 game is running. You can raise, lower, flatten and smooth the ground under the cursor; vessels collide
 with the edited surface right away, and the edits are stored in the save file.
 
